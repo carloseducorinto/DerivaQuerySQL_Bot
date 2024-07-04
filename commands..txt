@@ -1,0 +1,5 @@
+# Create a python virtual environment = python -m venv derivaquery_venv
+# Activate the new virtual environment = derivaquery_venv\Scripts\activate.ps1
+# Required libraries installation = pip install -r requirements.txt
+# Streamlit Execution = streamlit run .\src\main.py
+# Pip upgrade = python -m pip install --upgrade pip
